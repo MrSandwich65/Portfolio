@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Homebrew for Beginners</title>
+   <link rel="stylesheet" href="style.css">
+</head>
+<style>
+body {
+  background-color: orange;
+}
+
+h1 {
+  color: olive;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 15px;
+}
+</style>
+</head>
+<body>
+
+<body>
+   <header>
+       <h1>Homebrewing for Beginners</h1>
+       <nav>
+           <ul>
+               <li><a href="#about">About</a></li>
+               <li><a href="#introduction">Introduction</a></li>
+               <li><a href="#ingredients">Ingredients and Essentials</a></li>
+	       <li><a href="#instructions">Instructions for Brew Day</a></li>
+               
+           </ul>
+       </nav>
+   </header>
+
+   <main>
+       <section id="about">
+           <h2>About Home Brewing Beer</h2>
+           <p>Homebrewing is a growing hobby for anyone interested in craft beer or learning the art.
+              There are multiple styles of beer homebrewers will attempt to craft. Below, we will
+              discuss the various, basic methods for crafting your own brew!</p>
+       </section>
+
+       <section id="introduction">
+           <h2>Introduction</h2>
+           <ul>
+               <li><p><u>Styles</u></p>
+                   There are many different styles in the craft beer hobby. Some of these styles include
+                   IPA's, Stouts, Lagers, Pilsners, Porters, Lambic's, and a variety of variants
+                   of these styles. Creating these styles requires 4 basic ingredients; Water, Grain,
+                   Hops, and Yeast.
+
+		  <p><u>Hardware and Tools</u></p>
+		  Certain hardware and tools are required for homebrewers to get their home operation underway.
+		  It is recommended that all first time brewers pick up a homebrewing starter kit.
+		  Check out the link below for starter kits with all the essentials!
+		  <p><a href="https://www.morebeer.com/">Check out these brew kits at morebeer.com</a></p>
+           </ul>
+       </section>
+
+       <section id="ingredients">
+           <h2>Ingredients and Essentials</h2>
+               <p>Ingredients:</p>
+           <ul>
+               <li><p><u>Ingredients and Essentials</u></p>
+		Water is one of the 4 most essential ingredients to the brewing process. Many different
+		kinds of water can be used. Spring water, Distilled water, or water directly from the tap!
+		Different styles of beer may require ph testing to be done to make sure the chemicals in the
+		water aren't going to affect the outcome of the beer at the end of the fermentation process.<br>
+
+		Grain or extract (depending on the style of brewing being done, will be another of the 4 main
+		ingreidents in making a delicious home brew. The grain will not only help set up the color
+		and flavor of your beer, but it will also determine the ABV (alchol ny volume) in your beer.
+		The amount of sugars in the grain or extract will convert to alcohol during the fermentation
+		process after the hops and yeast have been added.<br>
+
+		Which leads me to hops, the third of the 4 main ingredients in brewing. Hops play an incredibly
+		important role in what kind of flavors or styles of beer you're wanting to produce.There are a
+		wide variety of hops. Some hops are used for bittering, some are used for aroma, and others are
+		used for their dual purpose qualities. Some bittering hops include Columbus, Comet, Summit, Magnum,
+		and Nugget to name a few. The aromatic hops include Citra, Mosaic, Centennial, Galaxy, and Montueka.
+		In some cases, the same hops you have used for bittering can also be used for aromatics. How this
+		is determind will be solely up to the brewer's preferences based on the style of beer they are brewing.</li>
+           </ul>
+           <p>Instructions:</p>
+	   </section>
+
+           <section id="instructions">
+             <h2>Instructions</h2>
+               <p>Instructions for Brew Day:</p>	
+           <ul>
+               <li><h5.5><u>Instructions for Brew Day</u></h5.5>
+
+		<!--Insert paragraph text-->
+		<p>Once all of the essential brewing ingredients are acquired, your brew day will be ready to<br>
+		begin. Below are all the steps required to begin your first successful brew day!</p>
+		
+ 		<h4><u>Step One:</u></h4>
+		<!--Insert paragraph text-->
+		<p>Prepare water for boil.</p>
+		<p>Gather homebrew starter kist and a heating device like a campfire stove or floor standing burner<br>
+		from your local homebrew shop or an online distributor. In the kettle that you picked up with your <br>
+		starter kit, pour in 5-7 gallons of water and bring to a rolling boil. (Volume of water will be determined<br>
+		by your batch size and how much you will lose due to evaporation.</p>
+		<p><a href="https://www.youtube.com/watch?v=xVIAC1CqeVc">WATCH:Water Chemistry for Beginners</a></p>
+
+
+		<!--Insert Heading-->
+		<h4><u>Step Two:</u></h4>
+		<!--Insert paragraph text-->
+		<p>Add Grain/Extract to Boil.</p>
+		<p>In this step, you will add the grain that you ordered for your brew. If ordering grains from an online<br>
+		distributor, make sure the grains are milled or you have a grain mill available (milling the grain allows<br>
+		the sugars to be rinsed from the inner shell of the grain. The sugar is later converted to alcohol)<br>
+		There are different options when adding grain. The brew-in-a-bag method (BIAB) has become the most common and <br>
+		easy way for homebrewers to achieve excellent results with minimal hiccups and shorter clean up times.<br>
+		You will first start with heating your water to 145-170 degrees to steep your grain for 45 minutes to 1 hour. This<br>
+		process will allow the maximum amount of sugars to be rinsed from the grain. The final product is called "wort"</p>
+		<p><a href="https://www.youtube.com/watch?v=uKvmzuJMndk">WATCH:BIAB for Beginners</a></p>
+
+		
+		<h4><u>Step Three:</u></h4>
+		<!--Insert paragraph text-->
+		<p>Addition of Hops.</p>
+		<p>In this step, you will add the hops. Hops are the main ingredient that will determine the flavor of your final <br>
+		product. If hops are added durin the boil, the outcome will be a more bitter brew. If the hops are added <br>
+		late in the boil, during the whirlpool, prior to pitching yeast, or dry-hopping, the brew will be less <br>
+		bitter and the flavors of the hops will shine. This is typically done in the IPA style to showcase the <br>
+		different hop flavors and characteristics. For a less hoppy beer, a small amount of hops will be added to <br>
+		the boil. For a more hoppy, flavorful brew, more hops and more hop varieties will be added. Again, it is all <br>
+		up to the brewer and the style of beer they are trying to achieve.</p>
+		<p><a href="https://www.youtube.com/watch?v=DqohjS_oCkU">WATCH:Addition of Hops</a></p>
+
+		<h4><u>Step Four:</u></h4>
+		<!--Insert paragraph text-->
+		<p>Pitching Yeast.</p>
+		<p>In this final step, you will be adding the yeast, also known as "pitching". Once the wort cools, you've added all <br>
+		your hops, and have sanitized all your equipment, you will pitch the yeast. From the boil kettle, transfer all the wort <br>
+		to your sanitized fermenter. Sanitize the outside of your yeast packet, cut it open with sanitized scissors, <br>
+		and pour the powder or liquid yeast directly into the fermenter. Seal up the fermenter and shake it vigorously <br>
+		for a minute to oxygenate the beer and activate the yeast. A fermentation time of 7-14 days will be required <br>
+		depending on the beer you are brewing. You'll know it's finished when you no longer see fermentation activity <br>
+		in the blow-off.</p>
+		<p><a href="https://www.youtube.com/watch?v=fDEKdr48bFM">WATCH:Fermentation for Beginners</a></p></li>
+           </ol>
+       </section>
+
+     
